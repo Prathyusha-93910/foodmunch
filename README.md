@@ -12,7 +12,7 @@
 
 ## Run Locally
   - Go live server
-## <a href="https://indianfood.vercel.app/" target="_blank">Demo</a>
+## <a href="https://foodmunch123c.ccbp.tech/" target="_blank">Demo</a>
 ## Home Section
 ![image](https://github.com/Prathyusha-93910/foodmunch/assets/134360404/3fa9b71b-3b94-49fb-97ea-e0c5cd6ec79b)
 ## Why Choose Us Section
