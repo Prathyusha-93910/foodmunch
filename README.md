@@ -2,21 +2,22 @@
 # Tech stacks
 - HTML
 - CSS
-- JS
+- BOOTSTRAP
 ## Functinalities
-  - API request handling using mock server
-  - Login, Sign Up with redux
-  - Recipes page with detailed information
-## Indian Food
-- This website shares the ideas about recipes, cooking techniques and tools requirements for preparing recipes.
-## Installation
-  - git clone https://github.com/venkycoder422/Indian-food.git
-  - npm install
-## Run Locally
-  - npm start
-## <a href="https://indianfood.vercel.app/" target="_blank">Demo</a>
-![bhavya](https://github.com/Prathyusha-93910/foodmunch/assets/134360404/579e57c6-9792-497d-81cd-4d84d1b4858e)
+  - Menu section with food items 
+  - Delivary and payment section
+  - Follow us section and so on
+## Food Munch
+- This website can shows where a user can see a list of food items,detailed information about a food item,offers.
 
-![recipe page](https://user-images.githubusercontent.com/76251822/200759784-a2ef9b6a-4648-438f-8f39-efa65377595e.png)
- 
- ![recipes](https://user-images.githubusercontent.com/76251822/200759802-6fb4b39a-0990-4b96-9d3f-b02f3be50274.png)ap
+## Run Locally
+  - Go live server
+## <a href="https://indianfood.vercel.app/" target="_blank">Demo</a>
+## Home Section
+![image](https://github.com/Prathyusha-93910/foodmunch/assets/134360404/3fa9b71b-3b94-49fb-97ea-e0c5cd6ec79b)
+## Why Choose Us Section
+![image](https://github.com/Prathyusha-93910/foodmunch/assets/134360404/20f432cc-c795-480a-afe9-10418ce1f451)
+## Menu section
+![image](https://github.com/Prathyusha-93910/foodmunch/assets/134360404/8d995b5f-c947-45f3-8ac1-b4a11722b984)
+## Delivery & Payment Section and Follow Us Section
+![image](https://github.com/Prathyusha-93910/foodmunch/assets/134360404/ea82f93b-6143-4736-9277-4de4b3b7fd89)
